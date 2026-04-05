@@ -1,0 +1,236 @@
+path: dataset/images
+
+train: train
+val: val
+
+names:
+0 : Anarchist Cookbook
+1 : The Bean
+2 : Bob’s Rotten Head
+3 : The Bible
+4 : The Book of Belial
+5 : The Book of Revelations
+6 : Book of Shadows
+7 : The Book of Sin
+8 : Dead Sea Scrolls
+9 : Deck of Cards
+10 : D6
+11 : Doctor’s Remote
+12 : Forget Me Now
+13 : The Gamekid
+14 : The Hourglass
+15 : Kamikaze!
+16 : Lemon Mishap
+17 : Mom’s Bottle of Pills
+18 : Mom’s Bra
+19 : Mom’s Pad
+20 : Monster Manual
+21 : Monstro’s Tooth
+22 : Mr. Boom
+23 : My Little Unicorn
+24 : The Nail
+25 : The Necronomicon
+26 : A Pony
+27 : The Poop
+28 : Razor Blade
+29 : The Pinking Shears
+30 : Shoop Da Whoop!
+31 : Tammy’s Head
+32 : Teleport!
+33 : We Need to Go Deeper!
+34 : Yum Heart
+35 : &lt;3
+36 : 1UP
+37 : Battery
+38 : The Belt
+39 : Blood of the Martyr
+40 : Boom!
+41 : Breakfast
+42 : Brother Bobby
+43 : Charm of the Vampire
+44 : Chocolate Milk
+45 : The Compass
+46 : Cube of Meat
+47 : Cupid’s Arrow
+48 : Dessert
+49 : Dinner
+50 : Distant Admiration
+51 : A Dollar
+52 : Dr Fetus
+53 : Forever Alone
+54 : Growth Hormones
+55 : Dead Cat
+56 : Halo
+57 : Halo of Flies
+58 : The Inner Eye
+59 : Ladder
+60 : Little C.H.A.D.
+61 : Little Chubby
+62 : Little Gish
+63 : Little Steven
+64 : Loki’s Horns
+65 : Lord of the Pit
+66 : Lucky Foot
+67 : Lump of Coal
+68 : Lunch
+69 : Magic Mushroom
+70 : Magneto
+71 : The Mark
+72 : Max’s Head
+73 : Mini Mush
+74 : Mom’s Contacts
+75 : Mom’s Eye
+76 : Mom’s Heels
+77 : Mom’s Lipstick
+78 : Mom’s Underwear
+79 : Money = Power
+80 : Mr. Mega
+81 : My Reflection
+82 : Number One
+83 : The Pact
+84 : The Parasite
+85 : Pentagram
+86 : PHD
+87 : A Quarter
+88 : Raw Liver
+89 : The Common Cold
+90 : The Relic
+91 : Robo-Baby
+92 : Roid Rage
+93 : Rosary
+94 : Rotten Meat
+95 : Sack of Pennies
+96 : The Sad Onion
+97 : Sister Maggy
+98 : Skatole
+99 : Skeleton Key
+100 : Small Rock
+101 : Spelunkers Hat
+102 : Spider’s Bite
+103 : Spoon Bender
+104 : Steam Sale
+105 : Steven
+106 : Super Bandage
+107 : Technology
+108 : Transcendence
+109 : Treasure Map
+110 : The Virus
+111 : The Wafer
+112 : Wiggle Worm
+113 : Wire Coat Hanger
+114 : Wooden Spoon
+115 : X-Ray Vision
+116 : 9 Volt
+117 : Blood Bag
+118 : Bobby-Bomb
+119 : Bomb Bag
+120 : Brimstone
+121 : Bucket of Lard
+122 : Dead Bird
+123 : Demon Baby
+124 : Guardian Angel
+125 : Mom’s Knife
+126 : Odd Mushroom (Thin)
+127 : Odd Mushroom (Large)
+128 : Ouija Board
+129 : Whore of Babylon
+130 : Best Friend
+131 : Blood Rights
+132 : The Candle
+133 : Crack the Sky
+134 : Crystal Ball
+135 : D20
+136 : Dad’s Key
+137 : Guppy’s Head
+138 : Guppy’s Paw
+139 : IV Bag
+140 : Notched Axe
+141 : Prayer Card
+142 : Portable Slot
+143 : Remote Detonator
+144 : Spider Butt
+145 : Telepathy for Dummies
+146 : White Pony
+147 : 3 Dollar Bill
+148 : Abel
+149 : Ankh
+150 : The Black Bean
+151 : Bloody Lust
+152 : Bob’s Curse
+153 : Box
+154 : Bum Friend
+155 : Cat-O-Nine-Tails
+156 : Celtic Cross
+157 : Chemical Burn
+158 : Daddy Longlegs
+159 : Dead Dove
+160 : Epic Fetus
+161 : Fate
+162 : Ghost Baby
+163 : Guppy’s Hairball
+164 : Guppy’s Tail
+165 : Habit
+166 : Harlequin Baby
+167 : Holy Grail
+168 : Holy Water
+169 : Infestation
+170 : Ipecac
+171 : Jesus Juice
+172 : Magic 8 Ball
+173 : MEAT!
+174 : Mitre
+175 : Mom’s Purse
+176 : Mom’s Coin Purse
+177 : The Mulligan
+178 : Mutant Spider
+179 : Pageant Boy
+180 : The Peeper
+181 : Polyphemus
+182 : Pyro
+183 : Rainbow Baby
+184 : Sacred Heart
+185 : Sacrificial Dagger
+186 : Scapular
+187 : SMB Super Fan!
+188 : Speed Ball
+189 : Spirit of the Night
+190 : Squeezy
+191 : Stem Cells
+192 : Stigmata
+193 : Technology 2
+194 : Toothpicks
+195 : Tough Love
+196 : ___'s Soul
+197 : Ace of Spades
+198 : Bloody Penny
+199 : Burnt Penny
+200 : Cain's Eye
+201 : Cancer
+202 : Child's Heart
+203 : Counterfeit Penny
+204 : Cursed Skull
+205 : Curved Horn
+206 : Eve's Bird Foot
+207 : Flat Penny
+208 : Fish Head
+209 : Goat Hoof
+210 : Isaac's Head
+211 : Isaacs Fork
+212 : Judas's Tongue
+213 : The Left Hand
+214 : Liberty Cap
+215 : Lucky Toe
+216 : Maggy's Faith
+217 : Match Stick
+218 : A Missing Page
+219 : Mom's Pearl
+220 : Pinky Eye
+221 : The Polaroid
+222 : Push Pin
+223 : Red Patch
+224 : Rusted Key
+225 : Safety Cap
+226 : Samson's Lock
+227 : The Tick
+228 : Umbilical Cord
+229 : Game Squid

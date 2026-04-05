@@ -1,0 +1,6 @@
+# recognise img
+ultralytics==8.4.21
+# mod image
+pillow==11.3.0
+# dataset read, filter
+pandas==3.0.1

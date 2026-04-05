@@ -1,0 +1,15 @@
+Комната сокровищ
+Shop icon Магазин
+Challegne room icon Комната испытаний
+Boss Room Map Icon Комната босса
+Super secret room icon 
+Комната дьявола
+Secret room icon Секретная комната
+Arcade icon Игровая комната
+Я-ОШИБКА · 
+Angel room icon Комната ангела · 
+Boss challenge room Комната испытаний боссами
+Curse room icon Проклятая комната
+Libary icon Библиотека
+
+Sacrifice room icon Комната жертвоприношений

@@ -1,0 +1,16 @@
+# set hotkey (admin)
+keyboard==0.13.5
+# get mouse x y position
+pyautogui==0.9.54
+# recognise img with YOLO8
+ultralytics==8.4.21
+# screenshot
+mss==10.1.0
+# screenshot to img
+numpy==2.4.0
+# dataset read, filter
+pandas==3.0.1
+# show image, cut image from img dataset
+pillow==11.3.0
+# build exe
+pyinstaller==6.19.0

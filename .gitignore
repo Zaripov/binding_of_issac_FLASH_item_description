@@ -1,0 +1,52 @@
+*.exe
+arch/
+env/
+
+# build
+build/**
+dist/**
+*.spec
+
+# traing
+utilites/recog_test2/dataset/images/train/*
+utilites/recog_test2/dataset/images/val/*
+!utilites/recog_test2/dataset/images/train/.gitkeep
+!utilites/recog_test2/dataset/images/val/.gitkeep
+runs/
+yolov8n-cls.pt
+
+#parsed html images
+utilites/parseHTML/ALL/Артефакты (Flash) _ The Binding of Isaac вики _ Fandom_files/
+utilites/parseHTML/ALL/Брелоки (Flash) _ The Binding of Isaac вики _ Fandom_files/
+
+#Ignore Visual Studio build-related files
+.vs/
+/dists/msvc*/[Dd]ebug*/
+/dists/msvc*/[Rr]elease*/
+*.obj
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.sbr
+*.sdf
+*.opensdf
+obj/
+_ReSharper*/
+ipch/
+[Tt]est[Rr]esult*
+*.vcproj
+*.vsprops
+*.props
+*.vcxproj*
+*.tss
+.vscode
